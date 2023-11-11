@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>SSG Envoy AI, for security professionals, by security professionals</h1>
+  <h1>SSG Envoy AI</h1>
   <h1>v0.0.1 - Start Spark</h1>
 </div>
 
